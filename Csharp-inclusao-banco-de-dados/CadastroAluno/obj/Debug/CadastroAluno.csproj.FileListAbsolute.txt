@@ -1,0 +1,17 @@
+c:\users\maria ap franco\documents\visual studio 2012\Projects\CadastroAluno\CadastroAluno\bin\Debug\CadastroAluno.exe.config
+c:\users\maria ap franco\documents\visual studio 2012\Projects\CadastroAluno\CadastroAluno\obj\Debug\CadastroAluno.frmCadastroAluno.resources
+c:\users\maria ap franco\documents\visual studio 2012\Projects\CadastroAluno\CadastroAluno\obj\Debug\CadastroAluno.Properties.Resources.resources
+c:\users\maria ap franco\documents\visual studio 2012\Projects\CadastroAluno\CadastroAluno\obj\Debug\CadastroAluno.csproj.GenerateResource.Cache
+c:\users\maria ap franco\documents\visual studio 2012\Projects\CadastroAluno\CadastroAluno\bin\Debug\Banco de Dados2.accdb
+c:\users\maria ap franco\documents\visual studio 2012\Projects\CadastroAluno\CadastroAluno\bin\Debug\CadastroAluno.exe
+c:\users\maria ap franco\documents\visual studio 2012\Projects\CadastroAluno\CadastroAluno\bin\Debug\CadastroAluno.pdb
+c:\users\maria ap franco\documents\visual studio 2012\Projects\CadastroAluno\CadastroAluno\bin\Debug\Cadastro_Aluno_Controle.dll
+c:\users\maria ap franco\documents\visual studio 2012\Projects\CadastroAluno\CadastroAluno\bin\Debug\Cadastro_Aluno_Modelo.dll
+c:\users\maria ap franco\documents\visual studio 2012\Projects\CadastroAluno\CadastroAluno\bin\Debug\Cadastro_Aluno_Controle.pdb
+c:\users\maria ap franco\documents\visual studio 2012\Projects\CadastroAluno\CadastroAluno\bin\Debug\Cadastro_Aluno_Modelo.pdb
+c:\users\maria ap franco\documents\visual studio 2012\Projects\CadastroAluno\CadastroAluno\obj\Debug\CadastroAluno.exe
+c:\users\maria ap franco\documents\visual studio 2012\Projects\CadastroAluno\CadastroAluno\obj\Debug\CadastroAluno.pdb
+c:\users\maria ap franco\documents\visual studio 2012\Projects\CadastroAluno\CadastroAluno\bin\Debug\Banco de Dados4.accdb
+c:\users\maria ap franco\documents\visual studio 2012\Projects\CadastroAluno\CadastroAluno\bin\Debug\Banco de Dados5.mdb
+C:\Users\Maria Ap Franco\Documents\Visual Studio 2012\Projects\CadastroAluno\CadastroAluno\bin\Debug\Banco de Dados3.accdb
+C:\Users\Maria Ap Franco\Documents\Visual Studio 2012\Projects\CadastroAluno\CadastroAluno\obj\Debug\CadastroAluno.csprojResolveAssemblyReference.cache

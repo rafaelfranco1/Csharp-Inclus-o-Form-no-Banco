@@ -1,0 +1,19 @@
+Este projeto ainda não terminado, visa preencher um formulário
+escrito com C# , contendo :
+
+Nome
+RG
+CPF
+para o banco de dados aluno.mdb
+
+No Cadastro_Aluno_Controle.zip encontra - se :
+
+CadastroAluno - Camada de Apresentação, aonde mostra para
+preencher o nome, rg e cpf;
+
+Cadastro_Aluno_Modelo - Espelho do banco de dados
+
+Cadastro_Aluno_Controle - Camada de dados para incluir
+os campos nome, rg e cpg no banco de dados.
+
+OBS : Banco de dados - Aluno.mdb (MS Access)
