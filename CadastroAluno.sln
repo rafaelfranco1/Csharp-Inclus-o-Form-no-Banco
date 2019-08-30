@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroAluno", "CadastroAluno\CadastroAluno.csproj", "{EA94417A-E065-4DA4-B5E4-67178E761EC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cadastro_Aluno_Modelo", "Cadastro_Aluno_Modelo\Cadastro_Aluno_Modelo.csproj", "{1953854B-32FA-4F79-BD71-DAE971451A7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cadastro_Aluno_Controle", "Cadastro_Aluno_Controle\Cadastro_Aluno_Controle.csproj", "{E3776772-AD12-4E6D-9A8E-971A650F0CCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA94417A-E065-4DA4-B5E4-67178E761EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA94417A-E065-4DA4-B5E4-67178E761EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA94417A-E065-4DA4-B5E4-67178E761EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA94417A-E065-4DA4-B5E4-67178E761EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1953854B-32FA-4F79-BD71-DAE971451A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1953854B-32FA-4F79-BD71-DAE971451A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1953854B-32FA-4F79-BD71-DAE971451A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1953854B-32FA-4F79-BD71-DAE971451A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3776772-AD12-4E6D-9A8E-971A650F0CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3776772-AD12-4E6D-9A8E-971A650F0CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3776772-AD12-4E6D-9A8E-971A650F0CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3776772-AD12-4E6D-9A8E-971A650F0CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+c:\users\maria ap franco\documents\visual studio 2012\Projects\CadastroAluno\Cadastro_Aluno_Modelo\obj\Debug\Cadastro_Aluno_Modelo.csprojResolveAssemblyReference.cache
+c:\users\maria ap franco\documents\visual studio 2012\Projects\CadastroAluno\Cadastro_Aluno_Modelo\bin\Debug\Cadastro_Aluno_Modelo.dll
+c:\users\maria ap franco\documents\visual studio 2012\Projects\CadastroAluno\Cadastro_Aluno_Modelo\bin\Debug\Cadastro_Aluno_Modelo.pdb
+c:\users\maria ap franco\documents\visual studio 2012\Projects\CadastroAluno\Cadastro_Aluno_Modelo\obj\Debug\Cadastro_Aluno_Modelo.dll
+c:\users\maria ap franco\documents\visual studio 2012\Projects\CadastroAluno\Cadastro_Aluno_Modelo\obj\Debug\Cadastro_Aluno_Modelo.pdb
